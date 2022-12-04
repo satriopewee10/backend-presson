@@ -2,12 +2,10 @@
 
 # API Documentation 
 
-# API Documentation 
-
 ### Login 
 - Method     : POST 
 Request:
-  - Method : GET
+  - Method : POST
   - Endpoint : http://127.0.0.1:8000/api/auth/login
   - Header : 
   
